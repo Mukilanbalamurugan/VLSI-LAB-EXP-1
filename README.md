@@ -6,7 +6,7 @@ To simulate and synthesis Logic Gates,Adders and Subtractor using Xilinx ISE.
 Xilinx 14.7 Spartan6 FPGA
 
 ## PROCEDURE:
-STEP:1 Start the Xilinx navigator, Select and Name the New project. 
+STEP 1: Start the Xilinx navigator, Select and Name the New project. 
 STEP:2 Select the device family, device, package and speed. 
 STEP:3 Select new source in the New Project and select Verilog Module as the Source type.
 STEP:4 Type the File Name and Click Next and then finish button. Type the code and save it. 
